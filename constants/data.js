@@ -2,62 +2,27 @@ const userData = {
   githubUsername: "Bevebage",
   name: "Pierre Yan",
   designation: "Second Year Student",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/orange.png",
   email: "pierreyan@college.harvard.edu",
   phone: "+1 2674674826",
-  address: "33 chestnut st, Haddonfield\nNew Jersey, United States",
+  address: "33 chestnut st, Haddonfield New Jersey, United States",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
-    },
-    {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
-    },
-    {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
+      title: "PierreYan.com",
+      link: "https://pierreyan.com",
+      imgUrl: "/PierreYan.png",
     },
   ],
   about: {
     title:
-      "I'm a second year student at Harvard University, I'm studying Computer Science / Molecular and Cellular Biology.",
+      "I'm a second year student at Harvard University, I'm studying Computer Science / Molecular and Cellular Biology",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `I've been self-studying programming since I was 13. Having fun with my friends in the middle school library, we slowly learned about Java and built our own Minecraft mods. We built the coolest TNT blocks you could think of.`,
+      `In high school, I was given the opportunity to work at the University of Pennsylvania as a bioinformatics intern (my first introduction to professional grade code). Ever since then, my horizons have expanded.`,
+      `Now, attending Harvard University, I haven't forgotten about where I've come from. I'm studying Computer Science and Molecular and Cellular Biology to pursue bioinformatics. In addition, I'm still playing Minecraft (lol). I've vastly expanded my coding skill and am continuing to learn.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "This Website (lmao)",
+    currentProjectUrl: "https://pierreyan.com/",
   },
   experience: [
     {
@@ -83,7 +48,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZxIxsQob2-UIvoFI1z2JVysBD83Ehvs_/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/pieyan13",
     twitter: "https://twitter.com/",
@@ -91,6 +56,13 @@ const userData = {
     github: "https://github.com/bevebage",
     facebook: "https://facebook.com/",
   },
+  classes: [
+    'CS51: Abstraction and Design in Computation',
+    'CS61: Systems Programming and Machine Organization',
+    'CS124: Data Structures and Algorithms',
+    'CS153: Compilers',
+    'CS181: Machine Learning',
+  ],
 };
 
 export default userData;
