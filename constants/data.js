@@ -10,7 +10,7 @@ const userData = {
     {
       title: "PierreYan.com",
       link: "https://pierreyan.com",
-      imgUrl: "/PierreYan.png",
+      imgUrl: "/pierreyan.com.png",
     },
   ],
   about: {
