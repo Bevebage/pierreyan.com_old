@@ -13,7 +13,7 @@ export default function Projects() {
       <div className="bg-[#F1F1F1] dark:bg-gray-900">
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 py-20 pb-40">
           {userData.projects.map((proj, idx) => (
-            <ProjectCard
+            <ProjectCard key={idx}
               title={proj.title}
               link={proj.link}
               imgUrl={proj.imgUrl}
