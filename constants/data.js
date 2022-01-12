@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "Bevebage",
   name: "Pierre Yan",
   designation: "Second Year Student",
-  avatarUrl: "/orange.png",
+  avatarUrl: "/images/orange.png",
   email: "pierreyan@college.harvard.edu",
   phone: "+1 2674674826",
   address: "33 chestnut st, Haddonfield New Jersey, United States",
@@ -10,7 +10,7 @@ const userData = {
     {
       title: "PierreYan.com",
       link: "https://pierreyan.com",
-      imgUrl: "/pierreyan.com.png",
+      imgUrl: "/images/pierreyan.com.png",
     },
   ],
   about: {
