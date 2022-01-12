@@ -10,7 +10,7 @@ export default function ContainerBlock({children, ...customMeta}) {
   const meta = {
     title: 'Pierre Yan - Student',
     description: 'I\'m a second-year student at Harvard University. Feel free to message me!',
-    image: '/avatar.png',
+    image: '/images/orange.png',
     type: 'website',
     ...customMeta,
   };
