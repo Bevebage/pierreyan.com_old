@@ -20,6 +20,7 @@ const userData = {
       `I've been self-studying programming since I was 13. Having fun with my friends in the middle school library, we slowly learned about Java and built our own Minecraft mods. We built the coolest TNT blocks you could think of.`,
       `In high school, I was given the opportunity to work at the University of Pennsylvania as a bioinformatics intern (my first introduction to professional grade code). Ever since then, my horizons have expanded.`,
       `Now, attending Harvard University, I haven't forgotten about where I've come from. I'm studying Computer Science and Molecular and Cellular Biology to pursue bioinformatics. In addition, I'm still playing Minecraft (lol). I've vastly expanded my coding skill and am continuing to learn.`,
+      `I'm interested in bioinfomatics and the analysis of the genome. Due to rapidly advancing technology, I believe that bioinformatics will become a major player in research. However, I am also interested in both fields of Computer Science and Biology in their own right.`
     ],
     currentProject: "This Website (lmao)",
     currentProjectUrl: "https://pierreyan.com/",
@@ -37,7 +38,7 @@ const userData = {
       company: "Harvard University",
       year: "2024",
       companyLink: "https://www.harvard.edu/",
-      desc: "Majoring in Computer Science / Molecular and Cellular Biology. Currently a 3.8 GPA.",
+      desc: "Majoring in Computer Science / Molecular and Cellular Biology. Currently a 3.85 GPA.",
     },
     {
       title: "High School",
@@ -46,6 +47,13 @@ const userData = {
       companyLink: "https://high.haddonfieldschools.org/",
       desc: "Graduated from this place, that should be an achievement enough.",
     },
+    {
+      title: 'Associate Researcher',
+      company: 'University of Pennsylvania',
+      year: '2018',
+      companyLink: 'http://creminslab.com/',
+      desc: 'Worked on a independent project to discover the association between epigenetic motifs and gene looping.',
+    }
   ],
   resumeUrl:
     "https://drive.google.com/file/d/1ZxIxsQob2-UIvoFI1z2JVysBD83Ehvs_/view?usp=sharing",
@@ -62,6 +70,9 @@ const userData = {
     'CS124: Data Structures and Algorithms',
     'CS153: Compilers',
     'CS181: Machine Learning',
+    'LS1a: Introductary Chemistry, Molecular Biology, and Cell Biology',
+    'LS1b: Introductary Genetics, Genomics, and Evolution',
+    'MCB 60: Cellular Biology and Molecular Medicine',
   ],
 };
 
